@@ -168,6 +168,7 @@ a:hover {
     grid-template-rows: 40px;
     grid-template-areas: "pub entreprise about ccm . conso confidentialite conditions parametres"
 }
+/*100px 100px 100px 290px 250px 140px 100px 100px*/
 
 #footer1 {
     border-top:solid 1px;
