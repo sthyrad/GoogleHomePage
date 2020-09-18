@@ -164,7 +164,7 @@ a:hover {
     color: #6f6f6f;
     bottom: 0;
     display: grid;
-    grid-template-columns: 100px 100px 100px 290px 250px 140px 100px 100px;
+    grid-template-columns: 7% 7% 6% 25% 15% 10% 10% 10%;
     grid-template-rows: 40px;
     grid-template-areas: "pub entreprise about ccm . conso confidentialite conditions parametres"
 }
